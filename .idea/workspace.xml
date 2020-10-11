@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9750559d-dca3-4340-84a5-ada6beeb5893" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ijEFhmAlAFQzBlASukZbmmWQ45" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab01" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.KN310Kukhar01">
+    <configuration name="KN310Kukhar01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab01/KN310Kukhar01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.KN310Kukhar01" />
+        <item itemvalue="Python.lab1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9750559d-dca3-4340-84a5-ada6beeb5893" name="Default Changelist" comment="" />
+      <created>1602412499407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602412499407</updated>
+      <workItem from="1602412502722" duration="133000" />
+      <workItem from="1602412662637" duration="17019000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="169" key="#Inspections" timestamp="1602435776505">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state x="560" y="169" key="#Inspections/-1440.130.1440.877/0.23.1920.962@0.23.1920.962" timestamp="1602435776505" />
+    <state width="1716" height="209" key="GridCell.Tab.0.bottom" timestamp="1602449595283">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state width="1716" height="209" key="GridCell.Tab.0.bottom/-1440.130.1440.877/0.23.1920.962@0.23.1920.962" timestamp="1602449595283" />
+    <state width="1716" height="209" key="GridCell.Tab.0.center" timestamp="1602449595281">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state width="1716" height="209" key="GridCell.Tab.0.center/-1440.130.1440.877/0.23.1920.962@0.23.1920.962" timestamp="1602449595281" />
+    <state width="1716" height="209" key="GridCell.Tab.0.left" timestamp="1602449595280">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state width="1716" height="209" key="GridCell.Tab.0.left/-1440.130.1440.877/0.23.1920.962@0.23.1920.962" timestamp="1602449595280" />
+    <state width="1716" height="209" key="GridCell.Tab.0.right" timestamp="1602449595282">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state width="1716" height="209" key="GridCell.Tab.0.right/-1440.130.1440.877/0.23.1920.962@0.23.1920.962" timestamp="1602449595282" />
+    <state x="548" y="246" key="IDE.errors.dialog" timestamp="1602413195980">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state x="548" y="246" key="IDE.errors.dialog/-1440.130.1440.877/0.23.1920.962@0.23.1920.962" timestamp="1602413195980" />
+    <state x="499" y="143" key="SettingsEditor" timestamp="1602413125345">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state x="499" y="143" key="SettingsEditor/-1440.130.1440.877/0.23.1920.962@0.23.1920.962" timestamp="1602413125345" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Data_Analysis$KN310Kukhar.coverage" NAME="KN310Kukhar01 Coverage Results" MODIFIED="1602449421105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$lab1.coverage" NAME="lab1 Coverage Results" MODIFIED="1602436624071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
